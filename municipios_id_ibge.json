@@ -1,0 +1,558 @@
+[
+  {
+    "Municipio": "Abreulândia",
+    "ibge": 1700251
+  },
+  {
+    "Municipio": "Aguiarnópolis",
+    "ibge": 1700301
+  },
+  {
+    "Municipio": "Aliança do Tocantins",
+    "ibge": 1700350
+  },
+  {
+    "Municipio": "Almas",
+    "ibge": 1700400
+  },
+  {
+    "Municipio": "Alvorada",
+    "ibge": 1700707
+  },
+  {
+    "Municipio": "Ananás",
+    "ibge": 1701002
+  },
+  {
+    "Municipio": "Angico",
+    "ibge": 1701051
+  },
+  {
+    "Municipio": "Aparecida do Rio Negro",
+    "ibge": 1701101
+  },
+  {
+    "Municipio": "Aragominas",
+    "ibge": 1701309
+  },
+  {
+    "Municipio": "Araguacema",
+    "ibge": 1701903
+  },
+  {
+    "Municipio": "Araguaçu",
+    "ibge": 1702000
+  },
+  {
+    "Municipio": "Araguaína",
+    "ibge": 1702109
+  },
+  {
+    "Municipio": "Araguanã",
+    "ibge": 1702158
+  },
+  {
+    "Municipio": "Araguatins",
+    "ibge": 1702208
+  },
+  {
+    "Municipio": "Arapoema",
+    "ibge": 1702307
+  },
+  {
+    "Municipio": "Arraias",
+    "ibge": 1702406
+  },
+  {
+    "Municipio": "Augustinópolis",
+    "ibge": 1702554
+  },
+  {
+    "Municipio": "Aurora do Tocantins",
+    "ibge": 1702703
+  },
+  {
+    "Municipio": "Axixá do Tocantins",
+    "ibge": 1702901
+  },
+  {
+    "Municipio": "Babaçulândia",
+    "ibge": 1703008
+  },
+  {
+    "Municipio": "Bandeirantes do Tocantins",
+    "ibge": 1703057
+  },
+  {
+    "Municipio": "Barra do Ouro",
+    "ibge": 1703073
+  },
+  {
+    "Municipio": "Barrolândia",
+    "ibge": 1703107
+  },
+  {
+    "Municipio": "Bernardo Sayão",
+    "ibge": 1703206
+  },
+  {
+    "Municipio": "Bom Jesus do Tocantins",
+    "ibge": 1703305
+  },
+  {
+    "Municipio": "Brasilândia do Tocantins",
+    "ibge": 1703602
+  },
+  {
+    "Municipio": "Brejinho de Nazaré",
+    "ibge": 1703701
+  },
+  {
+    "Municipio": "Buriti do Tocantins",
+    "ibge": 1703800
+  },
+  {
+    "Municipio": "Cachoeirinha",
+    "ibge": 1703826
+  },
+  {
+    "Municipio": "Campos Lindos",
+    "ibge": 1703842
+  },
+  {
+    "Municipio": "Cariri do Tocantins",
+    "ibge": 1703867
+  },
+  {
+    "Municipio": "Carmolândia",
+    "ibge": 1703883
+  },
+  {
+    "Municipio": "Carrasco Bonito",
+    "ibge": 1703891
+  },
+  {
+    "Municipio": "Caseara",
+    "ibge": 1703909
+  },
+  {
+    "Municipio": "Centenário",
+    "ibge": 1704105
+  },
+  {
+    "Municipio": "Chapada da Natividade",
+    "ibge": 1705102
+  },
+  {
+    "Municipio": "Chapada de Areia",
+    "ibge": 1704600
+  },
+  {
+    "Municipio": "Colinas do Tocantins",
+    "ibge": 1705508
+  },
+  {
+    "Municipio": "Colméia",
+    "ibge": 1716703
+  },
+  {
+    "Municipio": "Combinado",
+    "ibge": 1705557
+  },
+  {
+    "Municipio": "Conceição do Tocantins",
+    "ibge": 1705607
+  },
+  {
+    "Municipio": "Couto Magalhães",
+    "ibge": 1706001
+  },
+  {
+    "Municipio": "Cristalândia",
+    "ibge": 1706100
+  },
+  {
+    "Municipio": "Crixás do Tocantins",
+    "ibge": 1706258
+  },
+  {
+    "Municipio": "Darcinópolis",
+    "ibge": 1706506
+  },
+  {
+    "Municipio": "Dianópolis",
+    "ibge": 1707009
+  },
+  {
+    "Municipio": "Divinópolis do Tocantins",
+    "ibge": 1707108
+  },
+  {
+    "Municipio": "Dois Irmãos do Tocantins",
+    "ibge": 1707207
+  },
+  {
+    "Municipio": "Dueré",
+    "ibge": 1707306
+  },
+  {
+    "Municipio": "Esperantina",
+    "ibge": 1707405
+  },
+  {
+    "Municipio": "Fátima",
+    "ibge": 1707553
+  },
+  {
+    "Municipio": "Figueirópolis",
+    "ibge": 1707652
+  },
+  {
+    "Municipio": "Filadélfia",
+    "ibge": 1707702
+  },
+  {
+    "Municipio": "Formoso do Araguaia",
+    "ibge": 1708205
+  },
+  {
+    "Municipio": "Goianorte",
+    "ibge": 1708304
+  },
+  {
+    "Municipio": "Goiatins",
+    "ibge": 1709005
+  },
+  {
+    "Municipio": "Guaraí",
+    "ibge": 1709302
+  },
+  {
+    "Municipio": "Gurupi",
+    "ibge": 1709500
+  },
+  {
+    "Municipio": "Ipueiras",
+    "ibge": 1709807
+  },
+  {
+    "Municipio": "Itacajá",
+    "ibge": 1710508
+  },
+  {
+    "Municipio": "Itaguatins",
+    "ibge": 1710706
+  },
+  {
+    "Municipio": "Itapiratins",
+    "ibge": 1710904
+  },
+  {
+    "Municipio": "Itaporã do Tocantins",
+    "ibge": 1711100
+  },
+  {
+    "Municipio": "Jaú do Tocantins",
+    "ibge": 1711506
+  },
+  {
+    "Municipio": "Juarina",
+    "ibge": 1711803
+  },
+  {
+    "Municipio": "Lagoa da Confusão",
+    "ibge": 1711902
+  },
+  {
+    "Municipio": "Lagoa do Tocantins",
+    "ibge": 1711951
+  },
+  {
+    "Municipio": "Lajeado",
+    "ibge": 1712009
+  },
+  {
+    "Municipio": "Lavandeira",
+    "ibge": 1712157
+  },
+  {
+    "Municipio": "Lizarda",
+    "ibge": 1712405
+  },
+  {
+    "Municipio": "Luzinópolis",
+    "ibge": 1712454
+  },
+  {
+    "Municipio": "Marianópolis do Tocantins",
+    "ibge": 1712504
+  },
+  {
+    "Municipio": "Mateiros",
+    "ibge": 1712702
+  },
+  {
+    "Municipio": "Maurilândia do Tocantins",
+    "ibge": 1712801
+  },
+  {
+    "Municipio": "Miracema do Tocantins",
+    "ibge": 1713205
+  },
+  {
+    "Municipio": "Miranorte",
+    "ibge": 1713304
+  },
+  {
+    "Municipio": "Monte Santo do Tocantins",
+    "ibge": 1713700
+  },
+  {
+    "Municipio": "Monte do Carmo",
+    "ibge": 1713601
+  },
+  {
+    "Municipio": "Muricilândia",
+    "ibge": 1713957
+  },
+  {
+    "Municipio": "Natividade",
+    "ibge": 1714203
+  },
+  {
+    "Municipio": "Nazaré",
+    "ibge": 1714302
+  },
+  {
+    "Municipio": "Nova Olinda",
+    "ibge": 1714880
+  },
+  {
+    "Municipio": "Nova Rosalândia",
+    "ibge": 1715002
+  },
+  {
+    "Municipio": "Novo Acordo",
+    "ibge": 1715101
+  },
+  {
+    "Municipio": "Novo Alegre",
+    "ibge": 1715150
+  },
+  {
+    "Municipio": "Novo Jardim",
+    "ibge": 1715259
+  },
+  {
+    "Municipio": "Oliveira de Fátima",
+    "ibge": 1715507
+  },
+  {
+    "Municipio": "Palmas",
+    "ibge": 1721000
+  },
+  {
+    "Municipio": "Palmeirante",
+    "ibge": 1715705
+  },
+  {
+    "Municipio": "Palmeiras do Tocantins",
+    "ibge": 1713809
+  },
+  {
+    "Municipio": "Palmeirópolis",
+    "ibge": 1715754
+  },
+  {
+    "Municipio": "Paraíso do Tocantins",
+    "ibge": 1716109
+  },
+  {
+    "Municipio": "Paranã",
+    "ibge": 1716208
+  },
+  {
+    "Municipio": "Pau D'Arco",
+    "ibge": 1716307
+  },
+  {
+    "Municipio": "Pedro Afonso",
+    "ibge": 1716505
+  },
+  {
+    "Municipio": "Peixe",
+    "ibge": 1716604
+  },
+  {
+    "Municipio": "Pequizeiro",
+    "ibge": 1716653
+  },
+  {
+    "Municipio": "Pindorama do Tocantins",
+    "ibge": 1717008
+  },
+  {
+    "Municipio": "Piraquê",
+    "ibge": 1717206
+  },
+  {
+    "Municipio": "Pium",
+    "ibge": 1717503
+  },
+  {
+    "Municipio": "Ponte Alta do Bom Jesus",
+    "ibge": 1717800
+  },
+  {
+    "Municipio": "Ponte Alta do Tocantins",
+    "ibge": 1717909
+  },
+  {
+    "Municipio": "Porto Alegre do Tocantins",
+    "ibge": 1718006
+  },
+  {
+    "Municipio": "Porto Nacional",
+    "ibge": 1718204
+  },
+  {
+    "Municipio": "Praia Norte",
+    "ibge": 1718303
+  },
+  {
+    "Municipio": "Presidente Kennedy",
+    "ibge": 1718402
+  },
+  {
+    "Municipio": "Pugmil",
+    "ibge": 1718451
+  },
+  {
+    "Municipio": "Recursolândia",
+    "ibge": 1718501
+  },
+  {
+    "Municipio": "Riachinho",
+    "ibge": 1718550
+  },
+  {
+    "Municipio": "Rio Sono",
+    "ibge": 1718758
+  },
+  {
+    "Municipio": "Rio da Conceição",
+    "ibge": 1718659
+  },
+  {
+    "Municipio": "Rio dos Bois",
+    "ibge": 1718709
+  },
+  {
+    "Municipio": "Sampaio",
+    "ibge": 1718808
+  },
+  {
+    "Municipio": "Sandolândia",
+    "ibge": 1718840
+  },
+  {
+    "Municipio": "Santa Fé do Araguaia",
+    "ibge": 1718865
+  },
+  {
+    "Municipio": "Santa Maria do Tocantins",
+    "ibge": 1718881
+  },
+  {
+    "Municipio": "Santa Rita do Tocantins",
+    "ibge": 1718899
+  },
+  {
+    "Municipio": "Santa Rosa do Tocantins",
+    "ibge": 1718907
+  },
+  {
+    "Municipio": "Santa Tereza do Tocantins",
+    "ibge": 1719004
+  },
+  {
+    "Municipio": "Santa Terezinha do Tocantins",
+    "ibge": 1720002
+  },
+  {
+    "Municipio": "São Bento do Tocantins",
+    "ibge": 1720101
+  },
+  {
+    "Municipio": "São Félix do Tocantins",
+    "ibge": 1720150
+  },
+  {
+    "Municipio": "São Miguel do Tocantins",
+    "ibge": 1720200
+  },
+  {
+    "Municipio": "São Salvador do Tocantins",
+    "ibge": 1720259
+  },
+  {
+    "Municipio": "São Sebastião do Tocantins",
+    "ibge": 1720309
+  },
+  {
+    "Municipio": "São Valério",
+    "ibge": 1720499
+  },
+  {
+    "Municipio": "Silvanópolis",
+    "ibge": 1720655
+  },
+  {
+    "Municipio": "Sítio Novo do Tocantins",
+    "ibge": 1720804
+  },
+  {
+    "Municipio": "Sucupira",
+    "ibge": 1720853
+  },
+  {
+    "Municipio": "Tabocão",
+    "ibge": 1708254
+  },
+  {
+    "Municipio": "Taguatinga",
+    "ibge": 1720903
+  },
+  {
+    "Municipio": "Taipas do Tocantins",
+    "ibge": 1720937
+  },
+  {
+    "Municipio": "Talismã",
+    "ibge": 1720978
+  },
+  {
+    "Municipio": "Tocantínia",
+    "ibge": 1721109
+  },
+  {
+    "Municipio": "Tocantinópolis",
+    "ibge": 1721208
+  },
+  {
+    "Municipio": "Tupirama",
+    "ibge": 1721257
+  },
+  {
+    "Municipio": "Tupiratins",
+    "ibge": 1721307
+  },
+  {
+    "Municipio": "Wanderlândia",
+    "ibge": 1722081
+  },
+  {
+    "Municipio": "Xambioá",
+    "ibge": 1722107
+  }
+]
